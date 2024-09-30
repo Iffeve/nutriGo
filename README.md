@@ -4,3 +4,5 @@ About Us Welcome to nutriGO, where we believe that nutritious eating should be c
 Figma: https://www.figma.com/proto/63EJawd7na6H5a41eput40/nutriGO?node-id=21-32&t=HpDuainI3NJWHm3I-1
 
 Website: https://selah27779.wixsite.com/nutrigomy
+
+User manual: https://www.canva.com/design/DAGR0cUbOrU/3DuTJpgsa4VCGWSVSzI9xg/edit
